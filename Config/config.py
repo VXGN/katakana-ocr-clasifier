@@ -1,0 +1,6 @@
+DATASET_PATH = './Datasets'
+IMAGE_SIZE = (32, 32)
+KNN_NEIGHBORS = 3
+SVC_KERNEL = ['linear', 'rbf']
+RANDOM_STATE = 42
+TEST_SIZE = 0.2
